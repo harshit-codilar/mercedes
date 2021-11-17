@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mercedes/static/css/main.12ad01f7.chunk.css",
+    "main.js": "/mercedes/static/js/main.c0e180bf.chunk.js",
+    "main.js.map": "/mercedes/static/js/main.c0e180bf.chunk.js.map",
+    "runtime-main.js": "/mercedes/static/js/runtime-main.344b23f2.js",
+    "runtime-main.js.map": "/mercedes/static/js/runtime-main.344b23f2.js.map",
+    "static/js/2.37c9685c.chunk.js": "/mercedes/static/js/2.37c9685c.chunk.js",
+    "static/js/2.37c9685c.chunk.js.map": "/mercedes/static/js/2.37c9685c.chunk.js.map",
+    "index.html": "/mercedes/index.html",
+    "static/css/main.12ad01f7.chunk.css.map": "/mercedes/static/css/main.12ad01f7.chunk.css.map",
+    "static/js/2.37c9685c.chunk.js.LICENSE.txt": "/mercedes/static/js/2.37c9685c.chunk.js.LICENSE.txt",
+    "static/media/00-mercedes-benz-sports-esports-highlight-for-the-worlds-2021-trophy-ceremony-2560x1440 .be3727e2.webp": "/mercedes/static/media/00-mercedes-benz-sports-esports-highlight-for-the-worlds-2021-trophy-ceremony-2560x1440 .be3727e2.webp",
+    "static/media/00-mercedes-benz-sports-esports-league-of-legends-world-championship-ring-2560x1440 .b06d6b4f.jpeg": "/mercedes/static/media/00-mercedes-benz-sports-esports-league-of-legends-world-championship-ring-2560x1440 .b06d6b4f.jpeg",
+    "static/media/00-time-for-a-new-era-the-new-eqs-2560x1440.d9722f45.webp": "/mercedes/static/media/00-time-for-a-new-era-the-new-eqs-2560x1440.d9722f45.webp",
+    "static/media/01-mercedes-benz-classic-sl-special-2560x1440.442004f2.webp": "/mercedes/static/media/01-mercedes-benz-classic-sl-special-2560x1440.442004f2.webp",
+    "static/media/Studio-Odeonsplatz-Hidden-Heroes-Dirk-Bonn-Lithium-Installation-2560x1440.e3864131.webp": "/mercedes/static/media/Studio-Odeonsplatz-Hidden-Heroes-Dirk-Bonn-Lithium-Installation-2560x1440.e3864131.webp",
+    "static/media/brand-logo1.562e894a.svg": "/mercedes/static/media/brand-logo1.562e894a.svg",
+    "static/media/brand-logo2.d54042ef.svg": "/mercedes/static/media/brand-logo2.d54042ef.svg",
+    "static/media/brand-logo3.6c2db677.svg": "/mercedes/static/media/brand-logo3.6c2db677.svg",
+    "static/media/img10.7f8f3850.webp": "/mercedes/static/media/img10.7f8f3850.webp",
+    "static/media/img11.0c3d5589.webp": "/mercedes/static/media/img11.0c3d5589.webp",
+    "static/media/img12.2984238e.webp": "/mercedes/static/media/img12.2984238e.webp",
+    "static/media/img13.a5ac7d90.webp": "/mercedes/static/media/img13.a5ac7d90.webp",
+    "static/media/img14.3ece9149.webp": "/mercedes/static/media/img14.3ece9149.webp",
+    "static/media/img6.e105249b.webp": "/mercedes/static/media/img6.e105249b.webp",
+    "static/media/img7.d1b82253.webp": "/mercedes/static/media/img7.d1b82253.webp",
+    "static/media/img8.07598c0a.webp": "/mercedes/static/media/img8.07598c0a.webp",
+    "static/media/img9.9ac654a0.webp": "/mercedes/static/media/img9.9ac654a0.webp",
+    "static/media/sliderim1.86530076.jpg": "/mercedes/static/media/sliderim1.86530076.jpg",
+    "static/media/sliderim2.de9ca3db.jpg": "/mercedes/static/media/sliderim2.de9ca3db.jpg",
+    "static/media/sliderim3.927193fb.jpg": "/mercedes/static/media/sliderim3.927193fb.jpg",
+    "static/media/textimg1.ad21ee68.png": "/mercedes/static/media/textimg1.ad21ee68.png",
+    "static/media/textimg2.0260b72d.png": "/mercedes/static/media/textimg2.0260b72d.png",
+    "static/media/textimg3.16bbf519.png": "/mercedes/static/media/textimg3.16bbf519.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.344b23f2.js",
+    "static/js/2.37c9685c.chunk.js",
+    "static/css/main.12ad01f7.chunk.css",
+    "static/js/main.c0e180bf.chunk.js"
+  ]
+}
